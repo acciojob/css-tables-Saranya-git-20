@@ -1,5 +1,6 @@
 th,tr,td{
-	border:8px;
+	border:8px solid grey;
+	 padding: 8px;
 	border-radius:5px;
 }
 th{
